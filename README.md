@@ -1,7 +1,7 @@
 ### Computational-Musicology-Raiyu
 
 # Bowie's *Sellout Period* visualised
-Many fans of David Bowie would say that he _sold out_ to the masses in the 1980's, adopting a more radio-friendly sound that would see his hits climbing the charts. 7 of his top 10 chart toppers according to [Billboard] (https://www.billboard.com/music/david-bowie) were all released between 1983 - 1987. In this study I tried to find a parameter that spotify measures that may reflect the change in his music during this specific period, and see if Bowie's *sellout Period* is reflected in the data.
+Many fans of David Bowie would say that he _sold out_(https://time.com/4183623/david-bowie-1980s/) to the masses in the 1980's, adopting a more radio-friendly sound that would see his hits climbing the charts. 7 of his top 10 chart toppers according to [Billboard] (https://www.billboard.com/music/david-bowie) were all released between 1983 - 1987. In this study I tried to find a parameter that spotify measures that may reflect the change in his music during this specific period, and see if Bowie's *sellout Period* is reflected in the data.
 
 ## The corpus
 The corpus for this study was a playlist curated by Spotify called "This is David Bowie", which is part of a series of artist focused playlists that spotify creates. The playlsit contains 72 songs that spam his entire career, however there is no information available about how these songs were created, which is a weekness of the corpus.
