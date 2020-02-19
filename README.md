@@ -9,8 +9,8 @@ The corpus for this study was a playlist curated by Spotify called "This is Davi
 ## Findings
 Out of all of the parameters that spotify provides, acousticness reflected an interesting result when plotted against the track release dates. As visible in graph 1, there is a clear drop in acousticness around 1980 - 1990. Unfortunately, due to the aesthetic limitations of the graph (and my lack of coding skills) I was unable to determine the exact period in terms of album.track.release_date, however graph 2 visualises the tracks that had a danceability that was less than 0.006. Here, the corpus is reduced to 15 tracks, 7 of which are tracks that were released between 1980 - 1990 which is the highest concentration per decade. 
 
-![Graph 1](https://github.com/raiyuh/Computational-Musicology-Raiyu/issues/1#issue-562216003)
-![Graph 2](https://github.com/raiyuh/Computational-Musicology-Raiyu/issues/2#issue-562218015)
+![Plot](https://github.com/raiyuh/Computational-Musicology-Raiyu/issues/1#issue-562216003)
+![Plot](https://github.com/raiyuh/Computational-Musicology-Raiyu/issues/2#issue-562218015)
 
 
 # Extra findings
